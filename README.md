@@ -1,6 +1,9 @@
-# Modelo de Machine Learning usado na Competição FLAI
+# Machine Learning em Campanha de Marketing de um Banco
+<img align='center' src="https://raw.githubusercontent.com/LeandroCoelhos/desafio_flai/main/data/TituloCompeti%C3%A7%C3%A3o.jpg">
+
 ----
-Resumo comentado das principais técnicas utilizadas no projeto que levou o 3º Lugar da Competição.
+
+Resumo comentado das principais técnicas utilizadas no projeto que levou o 3º Lugar na Competição.
 
 Autor: Leandro Coelho
 
@@ -27,5 +30,13 @@ Resumo do projeto
 ----
 Competição de classificação binária (se houve depósito ou não) a partir de um conjunto com variáveis qualitativas e quantitativas sem valores faltantes. Foi feita uma análise exploratória e manipulação das variáveis. Como método de validação foi utilizado o K-Fold (10-Folds) estratificado com a métrica F1-Score. Dentre os modelos de aprendizagem de máquina, se destacaram o Randon Forest, Support Vector Machine e Gradient Boosting. Para solução final foi utilizado a combinação destes três modelos com o método Hard, depois de um GridSearch dos melhores hiperparâmetros. O F1-Score alcançado: 69,63 %.
 
+---
+Palavras-Chave: _Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Dummy; One Hot Encoding; Label Encoding; K-Fold Stratified; F1-Scoring, GridSearch; Tunagem de Hiperparâmetros; Combinação por votos Hard; Comparação de Modelos; Insigths dos problema_.
+
 ----
 <img src="https://raw.githubusercontent.com/LeandroCoelhos/desafio_flai/main/data/Placar%20FInal%20Flai.jpeg" />
+
+----
+
+Para qualquer dúvidas, comentários ou críticas
+[Meu LinkedIn](https://www.linkedin.com/in/leandro-coelhos/)
