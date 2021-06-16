@@ -1,5 +1,7 @@
 # Machine Learning em Campanha de Marketing de um Banco
-<img align='center' src="https://raw.githubusercontent.com/LeandroCoelhos/desafio_flai/main/data/TituloCompeti%C3%A7%C3%A3o.jpg">
+<p align="center">
+<img src="https://raw.githubusercontent.com/LeandroCoelhos/desafio_flai/main/data/TituloCompeti%C3%A7%C3%A3o.jpg">
+</p>
 
 ----
 
@@ -34,7 +36,9 @@ Competição de classificação binária (se houve depósito ou não) a partir d
 Palavras-Chave: _Pacote Pandas, Numpy, Seaborn; Técnicas de Análise Exploratória de Dados; Regras de Negócios; Identificação de Outliers; Dummy; One Hot Encoding; Label Encoding; K-Fold Stratified; F1-Scoring, GridSearch; Tunagem de Hiperparâmetros; Combinação por votos Hard; Comparação de Modelos; Insigths dos problema_.
 
 ----
+<p align="center">
 <img src="https://raw.githubusercontent.com/LeandroCoelhos/desafio_flai/main/data/Placar%20FInal%20Flai.jpeg" />
+</p>
 
 ----
 
