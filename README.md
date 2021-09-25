@@ -11,6 +11,9 @@ Autor: Leandro Coelho
 
 Linguagem: Python
 
+Notbook: [Modelo de Classificação em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/blob/main/Campanha_de_Marketing_de_Banco.ipynb)
+
+
 Introdução
 ----
 Atualmente ouvimos muito falar de Machine Learning, mas você sabe o que é? Quais aplicações tem? Por onde começar?
